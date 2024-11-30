@@ -1,0 +1,5 @@
+/build
+/node_modules
+
+# testing audio
+src-tauri/b.mp3
